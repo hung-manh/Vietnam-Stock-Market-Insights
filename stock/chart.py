@@ -1,0 +1,1 @@
+# Đây là nơi để lưu trữ các hàm liên quan đến phân tích kỹ thuật chứng khoán (vẽ biểu đồ)
