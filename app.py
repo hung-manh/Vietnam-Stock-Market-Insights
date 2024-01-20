@@ -1,22 +1,30 @@
-import streamlit as st 
-import pandas as pd
-import stock 
+import streamlit as st
+from tabs import danh_sach_niem_yet, gioi_thieu, phan_tich_co_ban
 
 
-# DANH SÁCH NIÊM YẾT 
-st.write('''
-# Chứng khoán Việt Nam 
-Hú ae vào đây xem thông tin cơ bản của các mã chứng khoán nhé''')
-
-st.write('''## Danh sách các mã chứng khoán đã được niêm yết''')
-st.write(stock.live_stock_list())   
+# Set Streamlit app title 
+st.title('Vietnam Stock Market Insights')
 
 
-# PHÂN TÍCH CƠ BẢN (Thông tin cơ bản của cổ phiếu, các chỉ số cơ bản và báo cáo tài chính)
-# Code trong file fundamental.py
+# Create tabs
+tab1, tab2, tab3 = st.tabs(['Danh sách niêm yết', 'Phân tích cơ bản', 'Giới thiệu'])
 
 
-# PHÂN TÍCH KỸ THUẬT (Nơi vẽ các chart)
+with tab1:
+    st.header('Danh sách niêm yết')
+    danh_sach_niem_yet.render()
+
+with tab2:
+    st.header('Phân tích cơ bản')
+    phan_tich_co_ban.render()
+
+with tab3:
+    st.header('Giới thiệu')
+    gioi_thieu.render()
 
 
-# LỰA CHỌN CỔ PHIẾU (CHỌN MUA, CHỌN BÁN)
+
+# import stock 
+
+# # print(stock.get_securities_list(page_size=10))
+# print(stock.get_daily_stock_price(from_date='18/01/2024', to_date='18/01/2024', page_size=10, market='HOSE'))

@@ -1,7 +1,7 @@
 # StockAnalysis
 
 ## Giới thiệu
-**StockAnalysis** là một ứng dụng đơn giản được thiết kế để phân tích dữ liệu chứng khoán. Ứng dụng này cung cấp các công cụ để hiểu rõ hơn về diễn biến giá cổ phiếu, xu hướng thị trường và các chỉ số tài chính quan trọng.
+**StockAnalysis** là một ứng dụng đơn giản dựa trên nguồn dữ liệu từ **SSI** được thiết kế để phân tích dữ liệu chứng khoán. Ứng dụng này cung cấp các công cụ để hiểu rõ hơn về diễn biến giá cổ phiếu, xu hướng thị trường và các chỉ số tài chính quan trọng.
 
 ## Cài đặt
 Để cài đặt **StockAnalysis**, bạn có thể làm theo các bước sau:
@@ -17,7 +17,7 @@
 
 2. Chạy ứng dụng bằng lệnh:
     ```bash
-    python stock_analysis.py
+    python app.py
 ## Chức năng chính: 
 1. **Hiển thị biểu đồ giá cổ phiếu:** Xem biểu đồ dòng giá cổ phiếu theo thời gian để theo dõi xu hướng. 
 2. **Phân tích chỉ số tài chính:** Nhập mã cổ phiếu và nhận thông tin về các chỉ số tài chính quan trọng.
