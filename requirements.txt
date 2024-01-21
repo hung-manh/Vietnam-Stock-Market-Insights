@@ -1,4 +1,5 @@
 streamlit
+plotly
 pandas
 requests
 ssi_fc_data
