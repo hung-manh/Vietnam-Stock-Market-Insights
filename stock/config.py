@@ -1,4 +1,5 @@
 from ssi_fc_data import fc_md_client , model
+import plotly.graph_objs as go
 import pandas as pd 
 
 auth_type = 'Bearer'

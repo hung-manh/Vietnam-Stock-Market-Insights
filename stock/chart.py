@@ -1,3 +1,4 @@
+from .config import *
 # Đây là nơi để lưu trữ các hàm liên quan đến phân tích kỹ thuật chứng khoán (vẽ biểu đồ)
 def candlestick_chart(df, title='Candlestick Chart with MA and Volume', x_label='Date', y_label='Price', ma_periods=None, show_volume=True, figure_size=(15, 8), reference_period=None, colors=('#00F4B0', '#FF3747'), reference_colors=('blue', 'black')):
     """
