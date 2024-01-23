@@ -1,9 +1,7 @@
 import streamlit as st
 from tabs import danh_sach_niem_yet, gioi_thieu, phan_tich_co_ban, phan_tich_ky_thuat
 
-
-# Cho logo 
-
+st.set_page_config(layout="wide")
 # Set Streamlit app title 
 st.title('Vietnam Stock Market Insights')
 

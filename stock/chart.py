@@ -1,6 +1,6 @@
 from .config import *
 # Đây là nơi để lưu trữ các hàm liên quan đến phân tích kỹ thuật chứng khoán (vẽ biểu đồ)
-def candlestick_chart(df, title='Candlestick Chart with MA and Volume', x_label='Date', y_label='Price', ma_periods=None, show_volume=True, figure_size=(15, 8), reference_period=None, colors=('#00F4B0', '#FF3747'), reference_colors=('blue', 'black')):
+def candlestick_chart(df, title='Candlestick Chart with MA and Volume', x_label='Date', y_label='Price', ma_periods=None, show_volume=True, figure_size=(10, 8), reference_period=None, colors=('#00F4B0', '#FF3747'), reference_colors=('blue', 'black')):
     """
     Generate a candlestick chart with optional Moving Averages (MA) lines, volume data, and reference lines.
 
@@ -34,6 +34,7 @@ def candlestick_chart(df, title='Candlestick Chart with MA and Volume', x_label=
 
     # Add volume data if specified
     if show_volume:
+        df['Volume']=df['Volume'].astype(float)
         volume_trace = go.Bar(
             x=df['TradingDate'],
             y=df['Volume'],
