@@ -16,7 +16,6 @@ def get_securities_details(config=config, market='HOSE', symbol='SSI', page=1, p
 	json = client.securities_details(config, req)
 	return pd.DataFrame(json['data'])
 
-
 def get_index_list(config=config, market='', page=1, page_size=100):
 	client = fc_md_client.MarketDataClient(config)
 	req = model.index_list(market, page, page_size)
@@ -65,3 +64,40 @@ def get_daily_stock_price(config=config, symbol='SSI', from_date='15/10/2020', t
 	# return client.daily_stock_price(config, req)
 	json = client.daily_stock_price(config, req)
 	return pd.DataFrame(json['data'])
+
+def get_financial_ratio (symbol, report_range, is_all=False):
+    """
+    This function retrieves the essential financial ratios of a stock symbol on a quarterly or yearly basis. Some of the expected ratios include: P/E, P/B, ROE, ROA, BVPS, etc
+    Args:
+        symbol (:obj:`str`, required): 3 digits name of the desired stock.
+        report_range (:obj:`str`, required): 'yearly' or 'quarterly'.
+        is_all (:obj:`boo`, required): Set to True to retrieve all available years of data,  False to retrieve the last 5 years data (or the last 10 quarters). Default is True.
+    """
+    if report_range == 'yearly':
+        x = 1
+    elif report_range == 'quarterly':
+        x = 0
+    
+    if is_all == True:
+      y = 'true'
+    else:
+      y = 'false'
+
+    data = requests.get(f'https://apipubaws.tcbs.com.vn/tcanalysis/v1/finance/{symbol}/financialratio?yearly={x}&isAll={y}').json()
+    df = json_normalize(data)
+    # drop nan columns
+    df = df.dropna(axis=1, how='all')
+    #if report_range == 'yearly' then set index column to be df['year'] and drop quarter column, else set index to df['year'] + df['quarter']
+    if report_range == 'yearly':
+        df = df.set_index('year').drop(columns={'quarter'})
+    elif report_range == 'quarterly':
+        # add prefix 'Q' to quarter column
+        df['quarter'] = 'Q' + df['quarter'].astype(str)
+        # concatenate quarter and year columns
+        df['range'] = df['quarter'].str.cat(df['year'].astype(str), sep='-')
+        # move range column to the first column
+        df = df[['range'] + [col for col in df.columns if col != 'range']]
+        # set range column as index
+        df = df.set_index('range')
+    df = df.T
+    return df
