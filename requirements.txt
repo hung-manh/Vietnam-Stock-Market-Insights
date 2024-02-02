@@ -1,0 +1,3 @@
+ssi-fc-data
+streamlit
+plotly
