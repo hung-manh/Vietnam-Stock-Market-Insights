@@ -1,8 +1,11 @@
 from .config import *
 from . import config
 
-
+'''
+https://fc-data.ssi.com.vn/Help
+'''
 def get_securities_list(config=config, market='HOSE', page=1, page_size=100):
+
 	client = fc_md_client.MarketDataClient(config)
 	req = model.securities(market, page, page_size)
 	# return client.securities(config, req)
@@ -10,6 +13,7 @@ def get_securities_list(config=config, market='HOSE', page=1, page_size=100):
 	return pd.DataFrame(json['data'])
 
 def get_securities_details(config=config, market='HOSE', symbol='SSI', page=1, page_size=100):
+
 	client = fc_md_client.MarketDataClient(config)
 	req = model.securities_details(market, symbol, page, page_size)
 	# return client.securities_details(config, req)
@@ -24,6 +28,7 @@ def get_index_list(config=config, market='', page=1, page_size=100):
 	return pd.DataFrame(json['data'])
 
 def get_index_components(config=config, index='VN100', page=1, page_size=100):
+
 	client = fc_md_client.MarketDataClient(config)
 	req = model.index_components(index, page, page_size)
 	# return client.index_components(config, req)
@@ -43,14 +48,7 @@ def get_intraday_OHLC(config=config, symbol='SSI', from_date='15/10/2020', to_da
 	# return client.intraday_ohlc(config, req)
 	json = client.intraday_ohlc(config, req)
 	return pd.DataFrame(json['data'])
-
-def get_daily_index(config=config, index='VN100', from_date='15/10/2020', to_date='15/10/2020', page=1, page_size=100,   orderBy: str = '', order: str = ''):
-	client = fc_md_client.MarketDataClient(config)
-	req = model.daily_index(index, from_date, to_date, page, page_size, orderBy, order)
-	# return client.daily_index(config, req)
-	json = client.daily_index(config, req)
-	return pd.DataFrame(json['data'])
-
+    
 def get_daily_index(config=config, index='VN100', from_date='15/10/2020', to_date='15/10/2020', page=1, page_size=100,   orderBy: str = '', order: str = ''):
 	client = fc_md_client.MarketDataClient(config)
 	req = model.daily_index(index, from_date, to_date, page, page_size, orderBy, order)
