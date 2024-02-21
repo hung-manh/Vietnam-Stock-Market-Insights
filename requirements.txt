@@ -1,0 +1,4 @@
+ssi-fc-data
+streamlit
+plotly
+openpyxl
