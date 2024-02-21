@@ -4,7 +4,7 @@
 **StockAnalysis** là một ứng dụng đơn giản dựa trên nguồn dữ liệu từ **SSI** được thiết kế để phân tích dữ liệu chứng khoán. Ứng dụng này cung cấp các công cụ để hiểu rõ hơn về diễn biến giá cổ phiếu, xu hướng thị trường và các chỉ số tài chính quan trọng.
 
 ## Cài đặt
-Để cài đặt **StockAnalysis**, bạn có thể làm theo các bước sau:
+Để cài đặt **Vietnam Stock Market Insights**, bạn có thể làm theo các bước sau:
 
 1. Clone repository về máy tính của bạn:
    ```bash
@@ -13,7 +13,7 @@
    ```bash
     pip install -r requirements.txt
 ## Sử dụng
-1. Mở terminal và di chuyển vào thư mục chứa mã nguồn của **StockAnalysis**.
+1. Mở terminal và di chuyển vào thư mục chứa mã nguồn của **Vietnam Stock Market Insights**.
 
 2. Chạy ứng dụng bằng lệnh:
     ```bash
