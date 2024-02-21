@@ -1,4 +1,4 @@
-# StockAnalysis
+# Vietnam Stock Market Insights
 
 ## Giới thiệu
 **StockAnalysis** là một ứng dụng đơn giản dựa trên nguồn dữ liệu từ **SSI** được thiết kế để phân tích dữ liệu chứng khoán. Ứng dụng này cung cấp các công cụ để hiểu rõ hơn về diễn biến giá cổ phiếu, xu hướng thị trường và các chỉ số tài chính quan trọng.
