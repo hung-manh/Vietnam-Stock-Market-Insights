@@ -1,0 +1,605 @@
+exchange,shortName,industryID,industryIDv2,industryIdLevel2,industryIdLevel4,industry,industryEn,establishedYear,noEmployees,noShareholders,foreignPercent,website,stockRating,deltaInWeek,deltaInMonth,deltaInYear,outstandingShare,issueShare,companyType,ticker,status,code,message,traceId
+HOSE,An Phát Bioplastics,150.0,1353,1300,1353,Hóa chất,Chemicals,2007,1689.0,27697.0,0.067,https://anphatbioplastics.com,2.8,0.002,0.132,0.12,382.3,382.3,CT,AAA,,,,
+HOSE,Thủy sản Mekong,217.0,3573,3500,3573,Thực phẩm và đồ uống,Food & Beverage,2002,159.0,0.0,0.009,http://www.mekongfish.vn,,0.002,-0.017,-0.312,10.5,12.3,CT,AAM,,,,
+HOSE,Tập đoàn Tiên Sơn Thanh Hóa,226.0,3763,3700,3763,Hàng cá nhân & Gia dụng,Personal & Household Goods,1995,950.0,4408.0,0.009,http://tiensonaus.com,2.2,0.027,-0.048,0.022,70.8,70.8,CT,AAT,,,,
+HOSE,Đầu tư Nhãn Hiệu Việt,195.0,2791,2700,2791,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2012,89.0,513.0,0.487,http://www.vbinvest.com.vn,3.1,-0.009,-0.079,0.016,20.0,20.0,CT,ABR,,,,
+HOSE,DV Nông nghiệp Bình Thuận,253.0,5379,5300,5379,Bán lẻ,Retail,2004,63.0,7471.0,0.0,http://www.bitagco.com,2.7,0.024,-0.032,-0.139,80.0,80.0,CT,ABS,,,,
+HOSE,Thủy sản Bến Tre,217.0,3573,3500,3573,Thực phẩm và đồ uống,Food & Beverage,,591.0,1032.0,0.019,https://aquatexbentre.com,3.1,-0.035,-0.02,-0.098,11.8,14.4,CT,ABT,,,,
+HOSE,ACB,289.0,8355,8300,8355,Ngân hàng,Banks,,13190.0,44011.0,0.3,https://www.acb.com.vn,3.3,-0.004,0.027,0.164,3884.1,3884.1,NH,ACB,,,,
+HOSE,Đầu tư và XD Bình Dương ACC,180.0,2353,2300,2353,Xây dựng và Vật liệu,Construction & Materials,2008,242.0,1647.0,0.078,https://www.becamexacc.com.vn,2.3,-0.008,-0.03,-0.279,105.0,105.0,CT,ACC,,,,
+HOSE,Gỗ An Cường,155.0,1733,1700,1733,Tài nguyên Cơ bản,Basic Resources,2006,2653.0,477.0,0.385,https://www.ancuong.com,2.4,-0.013,-0.009,-0.16,150.8,150.8,CT,ACG,,,,
+HOSE,Thủy sản CL An Giang,217.0,3573,3500,3573,Thực phẩm và đồ uống,Food & Beverage,1986,1548.0,0.0,0.024,https://clfish.com,2.1,-0.004,-0.005,-0.131,50.2,50.2,CT,ACL,,,,
+HOSE,Clever Group,255.0,5555,5500,5555,Truyền thông,Media,2008,284.0,761.0,0.478,https://clevergroup.vn,2.2,-0.016,-0.084,-0.399,21.4,21.4,CT,ADG,,,,
+HOSE,Sơn Á Đông,180.0,2353,2300,2353,Xây dựng và Vật liệu,Construction & Materials,2000,155.0,0.0,0.008,http://adongpaint.com.vn,3.0,-0.007,0.042,0.231,23.0,23.0,CT,ADP,,,,
+HOSE,Dệt sợi DAMSAN,226.0,3763,3700,3763,Hàng cá nhân & Gia dụng,Personal & Household Goods,2006,498.0,2933.0,0.005,http://damsanjsc.vn,2.5,-0.001,-0.012,0.13,73.4,58.4,CT,ADS,,,,
+HOSE,Bất động sản An Gia,336.0,8633,8600,8633,Bất động sản,Real Estate,2012,146.0,2790.0,0.052,https://www.angia.com.vn,2.3,-0.014,-0.068,-0.315,125.1,125.1,CT,AGG,,,,
+HOSE,XNK An Giang,218.0,3577,3500,3577,Thực phẩm và đồ uống,Food & Beverage,1976,456.0,333.0,0.019,http://www.angimex.com.vn,2.3,-0.021,-0.039,-0.129,18.2,18.2,CT,AGM,,,,
+HOSE,Agriseco,300.0,8777,8700,8777,Dịch vụ tài chính,Financial Services,2000,147.0,3968.0,0.005,https://www.agriseco.com.vn,2.7,-0.029,0.004,1.036,215.4,215.4,CK,AGR,,,,
+HOSE,Thủy sản Nam Việt,217.0,3573,3500,3573,Thực phẩm và đồ uống,Food & Beverage,2006,6046.0,0.0,0.019,https://navicorp.com.vn,1.8,-0.024,-0.016,-0.216,133.1,133.5,CT,ANV,,,,
+HOSE,Chiếu xạ An Phú,237.0,4573,4500,4573,Y tế,Health Care,2003,223.0,1467.0,0.152,https://www.apic.com.vn,2.5,0.008,-0.2,-0.547,19.9,20.1,CT,APC,,,,
+HOSE,Chứng khoán APG,300.0,8777,8700,8777,Dịch vụ tài chính,Financial Services,2007,38.0,16178.0,0.054,http://www.apsi.vn,3.2,-0.065,0.071,1.01,153.6,153.6,CK,APG,,,,
+HOSE,Tập đoàn An Phát Holdings,184.0,2723,2700,2723,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2017,90.0,0.0,0.281,https://anphatholdings.com,2.6,-0.001,0.102,0.025,243.9,243.9,CT,APH,,,,
+HOSE,Tập đoàn ASG,193.0,2777,2700,2777,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2010,1719.0,0.0,0.009,https://asg.net.vn,2.3,-0.006,0.026,-0.176,90.8,75.7,CT,ASG,,,,
+HOSE,Tập đoàn Sao Mai,217.0,3573,3500,3573,Thực phẩm và đồ uống,Food & Beverage,1997,11864.0,19505.0,0.078,http://saomaigroup.com,2.8,0.032,0.004,0.077,336.5,336.5,CT,ASM,,,,
+HOSE,Dầu khí An Pha,275.0,7573,7500,7573,"Điện, nước & xăng dầu khí đốt",Utilities,2004,1520.0,4360.0,0.49,http://www.anphapetrol.com,2.3,-0.021,-0.039,-0.254,37.3,37.3,CT,ASP,,,,
+HOSE,Dịch vụ Hàng không Taseco,253.0,5379,5300,5379,Bán lẻ,Retail,2015,1281.0,505.0,0.433,https://www.tasecoairs.vn,2.5,-0.022,-0.026,-0.125,45.0,45.0,CT,AST,,,,
+HOSE,T.Mại và DV An Thành,217.0,3573,3500,3573,Thực phẩm và đồ uống,Food & Beverage,,2.0,0.0,,http://www.anthanhgroup.com.vn,,,,,15.0,0.0,CT,ATP,,,,
+HOSE,Nông nghiệp BAF Việt Nam,217.0,3573,3500,3573,Thực phẩm và đồ uống,Food & Beverage,2017,1542.0,333.0,0.002,https://baf.vn,1.9,-0.046,-0.077,0.071,143.5,143.5,CT,BAF,,,,
+HOSE,Bánh kẹo BIBICA,218.0,3577,3500,3577,Thực phẩm và đồ uống,Food & Beverage,1999,1655.0,0.0,0.008,http://www.bibica.com.vn,2.4,-0.021,-0.029,-0.251,18.8,18.8,CT,BBC,,,,
+HOSE,XD và GT Bình Dương,181.0,2357,2300,2357,Xây dựng và Vật liệu,Construction & Materials,2002,131.0,1927.0,0.013,http://www.becamexbce.com.vn,2.1,0.02,0.028,-0.172,35.0,35.0,CT,BCE,,,,
+HOSE,Bamboo Capital,299.0,8775,8700,8775,Dịch vụ tài chính,Financial Services,2011,82.0,41359.0,0.021,https://www.bamboocap.com.vn,2.6,0.033,0.011,0.117,533.5,533.5,CT,BCG,,,,
+HOSE,Becamex IDC,336.0,8633,8600,8633,Bất động sản,Real Estate,2006,3585.0,3520.0,0.02,https://becamex.com.vn,2.3,0.001,0.025,-0.362,1035.0,1035.0,CT,BCM,,,,
+HOSE,Phân bón Bình Điền,151.0,1357,1300,1357,Hóa chất,Chemicals,2011,1161.0,1800.0,0.061,https://binhdien.com,2.6,0.003,-0.029,0.551,57.2,57.2,CT,BFC,,,,
+HOSE,HABECO,214.0,3533,3500,3533,Thực phẩm và đồ uống,Food & Beverage,2003,514.0,1001.0,0.176,http://www.habeco.com.vn,2.3,-0.031,-0.059,-0.25,231.8,231.8,CT,BHN,,,,
+HOSE,Bảo hiểm BIDV,292.0,8536,8500,8536,Bảo hiểm,Insurance,1999,1299.0,1162.0,0.443,http://www.bic.vn,2.9,-0.033,0.026,-0.002,117.3,117.3,BH,BIC,,,,
+HOSE,BIDV,289.0,8355,8300,8355,Ngân hàng,Banks,1993,28836.0,36773.0,0.173,https://www.bidv.com.vn,3.0,-0.004,-0.041,0.078,5700.4,5700.4,NH,BID,,,,
+HOSE,Đầu tư BKG Việt Nam,228.0,3767,3700,3767,Hàng cá nhân & Gia dụng,Personal & Household Goods,2015,295.0,0.0,0.002,http://www.bkgvietnam.com,,-0.027,-0.041,-0.017,68.2,68.2,CT,BKG,,,,
+HOSE,Khoáng sản Bình Định,166.0,1775,1700,1775,Tài nguyên Cơ bản,Basic Resources,2001,197.0,0.0,0.051,http://www.bimico.vn,2.8,-0.031,-0.018,0.381,12.4,12.4,CT,BMC,,,,
+HOSE,Bảo hiểm Bảo Minh,292.0,8536,8500,8536,Bảo hiểm,Insurance,2004,1640.0,0.0,0.314,https://www.baominh.com.vn,2.5,0.009,0.002,-0.203,120.6,120.6,BH,BMI,,,,
+HOSE,Nhựa Bình Minh,180.0,2353,2300,2353,Xây dựng và Vật liệu,Construction & Materials,,1339.0,0.0,0.858,http://www.binhminhplastic.com,3.5,0.037,-0.02,0.902,81.9,81.9,CT,BMP,,,,
+HOSE,Cao su Bến Thành,150.0,1353,1300,1353,Hóa chất,Chemicals,1975,220.0,462.0,0.005,http://www.berubco.com.vn,,0.04,0.042,0.328,12.4,12.4,CT,BRC,,,,
+HOSE,Chứng khoán BIDV,300.0,8777,8700,8777,Dịch vụ tài chính,Financial Services,2000,290.0,5288.0,0.401,http://www.bsc.com.vn,2.7,-0.011,-0.008,1.987,202.8,202.8,CK,BSI,,,,
+HOSE,Nhiệt điện Bà Rịa,274.0,7535,7500,7535,"Điện, nước & xăng dầu khí đốt",Utilities,2007,239.0,1048.0,0.085,http://www.btp.com.vn,2.9,-0.015,0.026,0.302,60.5,60.5,CT,BTP,,,,
+HOSE,TM - DV Bến Thành,250.0,5373,5300,5373,Bán lẻ,Retail,2004,137.0,473.0,0.049,https://benthanhtsc.com,2.8,-0.021,0.011,-0.179,13.5,13.5,CT,BTT,,,,
+HOSE,Tập đoàn Bảo Việt,294.0,8575,8500,8575,Bảo hiểm,Insurance,2007,6413.0,8682.0,0.264,https://www.baoviet.com.vn,2.3,0.0,-0.017,-0.279,742.3,742.3,BH,BVH,,,,
+HOSE,Nước - Môi trường Bình Dương,277.0,7577,7500,7577,"Điện, nước & xăng dầu khí đốt",Utilities,2006,1120.0,2862.0,0.167,http://www.biwase.com.vn,2.4,-0.008,0.012,-0.202,192.9,192.9,CT,BWE,,,,
+HOSE,CIC39,180.0,2353,2300,2353,Xây dựng và Vật liệu,Construction & Materials,1993,226.0,3378.0,0.01,http://www.cic39.vn,2.5,0.008,0.02,-0.144,15.0,15.0,CT,C32,,,,
+HOSE,Xây dựng 47,181.0,2357,2300,2357,Xây dựng và Vật liệu,Construction & Materials,2005,690.0,1702.0,0.0,http://www.xaydung47.vn,2.3,-0.018,-0.02,-0.018,36.3,36.3,CT,C47,,,,
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,2c2109f250714d5a
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,ea2fb021379ab85f
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,7b7bf59bcd244da5
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,8e7b518f40b6572a
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,a0aa5cf32535429c
+HOSE,Dây cáp điện Việt Nam,186.0,2733,2700,2733,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1998,1020.0,1369.0,0.003,https://cadivi.vn,2.7,-0.029,-0.034,0.434,57.5,57.6,CT,CAV,,,,
+HOSE,CIDICO,275.0,7573,7500,7573,"Điện, nước & xăng dầu khí đốt",Utilities,2002,94.0,411.0,0.024,http://www.cidico.com.vn,2.7,-0.011,0.194,-0.143,17.5,17.7,CT,CCI,,,,
+HOSE,Đầu tư và Phát triển Đô thị Dầu khí Cửu Long,336.0,8633,8600,8633,Bất động sản,Real Estate,2007,79.0,5783.0,0.01,http://www.pvcl.com.vn,3.1,0.179,0.211,0.655,59.6,59.6,CT,CCL,,,,
+HOSE,Chương Dương Corp,181.0,2357,2300,2357,Xây dựng và Vật liệu,Construction & Materials,2008,250.0,963.0,0.045,https://chuongduongcorp.vn,2.1,-0.018,-0.046,-0.031,22.0,22.0,CT,CDC,,,,
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,48e9532a97dac659
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,a0d2448a3bfcf6e9
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,4cb334e770ba1866
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,2d266b4884321866
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,7c091eef06457d53
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,a79679e3a04839fd
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,03ebae2ad731ca81
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,8f0cc86757253ed6
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,8e8b7455440fc0ba
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,e8d2b5e176948dd5
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,0fe82b7ad004a73f
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,2256d59bb3eb8b2f
+HOSE,Thủy điện Miền Trung,274.0,7535,7500,7535,"Điện, nước & xăng dầu khí đốt",Utilities,2004,125.0,3939.0,0.038,https://chp.vn,3.7,0.036,0.038,0.142,146.9,146.9,CT,CHP,,,,
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,449ceedda9000fdb
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,abc9d119f9670133
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,30449079856e7732
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,747dc579dd9fdd18
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,72b1fce8e086ff54
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,a3d777a20aee87d8
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,f1a0888ccb69e900
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,1fc4821e85a3b8dc
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,992a47569d164b1d
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,49fb3e5916daa711
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,2f60564016a96a2c
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,e4a621757ba470f5
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,e07880cf972178b6
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,bd3626ded14e6ab8
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,7b5f48385d27fda3
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,db590ae0c3be8fcd
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,ada10744d5ccde4c
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,b17def23c1f970c0
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,51b2c55c02c309b6
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,8461988da0dcb1a4
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,00345cc3134fc498
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,e46e00c0bb778ac8
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,6fc0de61aac23bb1
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,9abdd953a2d96789
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,ec5a29f6b225a751
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,1f4e079f841753b7
+HOSE,Xây dựng COMA 18,181.0,2357,2300,2357,Xây dựng và Vật liệu,Construction & Materials,2005,65.0,308.0,0.001,http://www.coma18.vn,2.7,-0.004,-0.027,0.593,31.5,31.5,CT,CIG,,,,
+HOSE,Hạ tầng Kỹ thuật TP.HCM,181.0,2357,2300,2357,Xây dựng và Vật liệu,Construction & Materials,2001,760.0,39257.0,0.072,https://cii.com.vn,2.3,-0.021,0.013,0.248,318.4,318.4,CT,CII,,,,
+HOSE,Xây dựng Kiên Giang,336.0,8633,8600,8633,Bất động sản,Real Estate,2013,200.0,10601.0,0.0,https://cicgroups.com,2.2,-0.013,-0.044,-0.153,95.3,95.3,CT,CKG,,,,
+HOSE,Thuốc lá Cát Lợi,229.0,3785,3700,3785,Hàng cá nhân & Gia dụng,Personal & Household Goods,2003,307.0,826.0,0.026,http://www.catloi.com.vn,2.9,-0.023,0.001,0.127,26.2,26.2,CT,CLC,,,,
+HOSE,Cảng Cát Lái,193.0,2777,2700,2777,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2007,92.0,775.0,0.108,http://catlaiport.com.vn,3.1,0.014,-0.017,0.45,34.0,34.0,CT,CLL,,,,
+HOSE,Cấp nước Chợ Lớn,277.0,7577,7500,7577,"Điện, nước & xăng dầu khí đốt",Utilities,2007,459.0,433.0,0.048,http://www.capnuoccholon.com.vn,3.0,-0.021,-0.039,0.515,13.0,13.0,CT,CLW,,,,
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,88aa5b1c20d9f959
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,b1ccb265395ade58
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,e76a47f6de268ba5
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,6681a3ea4d1a76af
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,f6ac61b5a029f4f7
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,6800f225eb11bbc5
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,1fa9db22a7e8a2d1
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,6ebcbbaa85bb8501
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,f7ec642dc6b5624f
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,a9cb38d460496215
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,9bdbdb4f5613178a
+HOSE,Tập đoàn Công nghệ CMC,308.0,9533,9500,9533,Công nghệ Thông tin,Technology,2009,3820.0,1130.0,0.454,http://www.cmc.com.vn,2.2,-0.035,-0.036,0.089,190.0,190.0,CT,CMG,,,,
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,08ebdf88f33cf323
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,1f17177ae796d3e5
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,fbf0bfbd0cbbfdff
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,0b3d9e6e2bb9dd54
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,b64976f61f4aa38d
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,ea8cc6e673db7310
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,7f9514205b84cea7
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,7184d741d3945827
+HOSE,Thương nghiệp Cà Mau,250.0,5373,5300,5373,Bán lẻ,Retail,1980,700.0,644.0,0.0,http://www.tncm.com.vn,2.5,-0.021,-0.045,-0.058,18.2,18.2,CT,CMV,,,,
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,6a6d5a8292b6d9ea
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,75a75e27206c7592
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,d57ec4ae0663c8b3
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,52cff69b501cb00c
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,247ccb9ea419698b
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,f575d7214d7417a0
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,c5ccf7570fe3063c
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,ab63248191a7678b
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,ae740c0b09f6ac35
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,6bca74e9a78fa298
+HOSE,CAMIMEX Group,217.0,3573,3500,3573,Thực phẩm và đồ uống,Food & Beverage,2006,1272.0,9602.0,0.155,http://www.camimex.com.vn,2.1,-0.002,-0.007,-0.229,101.9,101.9,CT,CMX,,,,
+HOSE,CNG Việt Nam,275.0,7573,7500,7573,"Điện, nước & xăng dầu khí đốt",Utilities,2007,278.0,0.0,0.132,https://www.cngvietnam.com,3.1,-0.009,0.015,0.326,35.1,35.1,CT,CNG,,,,
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,081ee95ce14756c8
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,0c0c544dc7be6974
+HOSE,Vật tư Xăng dầu,253.0,5379,5300,5379,Bán lẻ,Retail,2000,481.0,494.0,0.002,http://comeco.vn,2.8,0.044,-0.006,-0.05,14.1,14.1,CT,COM,,,,
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,993c8a2e4b858a1b
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,5b6e6754f11dbe7a
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,0c60a2ed8b89a050
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,de7c701af0105508
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,697ab450f2454f48
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,f370cf2134284316
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,fb99b51e310d7a61
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,f95f003c0ca0762c
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,f66040b7564f7eb1
+HOSE,Create Capital Việt Nam,180.0,2353,2300,2353,Xây dựng và Vật liệu,Construction & Materials,2010,30.0,3531.0,0.003,http://createcapital.vn,,0.013,0.138,0.277,30.0,30.0,CT,CRC,,,,
+HOSE,Bất động sản Thế Kỷ,336.0,8633,8600,8633,Bất động sản,Real Estate,2001,2737.0,6157.0,0.025,https://cenland.vn,2.1,0.028,0.014,0.048,463.7,463.7,CT,CRE,,,,
+HOSE,Tập đoàn Bất động sản CRV,339.0,8637,8600,8637,Bất động sản,Real Estate,,50.0,0.0,,https://www.crvgroup.vn,,,,,672.4,672.4,CT,CRV,,,,
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,d7d4c80184b7d28d
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,dab4a1c6bd6d5420
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,cc257071412d8d6a
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,63749274158d4663
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,7c137f115646f531
+HOSE,Cao su Miền Nam,213.0,3357,3300,3357,Ô tô và phụ tùng,Automobiles & Parts,2006,1900.0,5415.0,0.007,http://www.casumina.com,2.1,-0.036,0.015,-0.226,103.6,103.6,CT,CSM,,,,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,c396bf7312c276b2
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,83e816e9879eb818
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,93ce47fcacfc5b45
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,f60f84057616a124
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,700d7601dc0950c7
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,f1eb54db9be460ab
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,00ecfe0827291328
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,0201d5244fd1f157
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,0cd5e88ae89c0354
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,acb150e418bd302f
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,055b4d6de862a874
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,dcf759bcb3a8d173
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,fd749a5375cd5436
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,01d6bd8b1430b502
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,158239851890477d
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,e80c2a177f80eecf
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,501de1d803358330
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,e9bd7f09c9285988
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,fb5407b881edb2be
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,314740071eadf225
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,bc702c43d8b07f2b
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,2e15fb02d097a7c4
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,93ceb550c947d794
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,cacff646695de4a5
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,f9786b824a92f972
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,13acab20dfd8ec9d
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,d618593b56353fd9
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,b4dfc52ab22f0014
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,1f34f5ef891f5b2f
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,1b77f9eb3841d16b
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,7c312d2e89cae35d
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,ecad794ca7e37508
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,d73314ab058e3f43
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,f48374fba840cffd
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,d1b0d90be9c11a57
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,e0d7f321b6b0fdb6
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,a8f1f10114f8c35e
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,fc4bc724d714af66
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,f62b69835bf61bd6
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,5e32727680b0caee
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,65034ee570c78aed
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,a1e62b014fe4f796
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,49fba8b8ce5c9db8
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,910361c1b222d71f
+HOSE,CMC JSC,180.0,2353,2300,2353,Xây dựng và Vật liệu,Construction & Materials,2006,1219.0,1125.0,0.005,https://cmctile.com.vn,2.0,-0.021,0.019,-0.236,36.7,36.7,CT,CVT,,,,
+HOSE,Phát triển Đô thị số 2,336.0,8633,8600,8633,Bất động sản,Real Estate,2006,81.0,3550.0,0.007,http://www.d2d.com.vn,2.7,-0.028,0.3,0.541,30.3,30.3,CT,D2D,,,,
+HOSE,TĐ Nhựa Đông Á,150.0,1353,1300,1353,Hóa chất,Chemicals,2001,210.0,6605.0,0.003,http://www.dag.com.vn,2.6,0.033,0.018,-0.302,60.3,60.3,CT,DAG,,,,
+HOSE,Tập đoàn Khách sạn Đông Á,259.0,5753,5700,5753,Du lịch và Giải trí,Travel & Leisure,2003,12.0,327.0,0.0,https://www.mayplazahotel.com,2.2,0.01,-0.034,-0.198,84.2,84.2,CT,DAH,,,,
+HOSE,ĐT Du lịch và PT Thủy sản,217.0,3573,3500,3573,Thực phẩm và đồ uống,Food & Beverage,2008,83.0,440.0,0.0,http://www.trisedco.com,2.3,0.017,0.026,-0.219,62.9,62.9,CT,DAT,,,,
+HOSE,Tập đoàn DABACO,217.0,3573,3500,3573,Thực phẩm và đồ uống,Food & Beverage,2004,5941.0,0.0,0.034,http://www.dabaco.com.vn,2.7,0.039,0.135,0.921,242.0,242.0,CT,DBC,,,,
+HOSE,Dược - TB Y tế Bình Định,238.0,4577,4500,4577,Y tế,Health Care,2010,1239.0,1980.0,0.118,https://bidiphar.com,2.6,-0.024,-0.039,0.213,74.8,74.9,CT,DBD,,,,
+HOSE,Dược phẩm Bến Tre,238.0,4577,4500,4577,Y tế,Health Care,2004,670.0,2153.0,0.026,https://bepharco.com,,-0.033,-0.031,-0.016,16.3,16.3,CT,DBT,,,,
+HOSE,Xây dựng DIC Holdings,181.0,2357,2300,2357,Xây dựng và Vật liệu,Construction & Materials,2005,152.0,2414.0,0.002,https://diccons.vn,3.4,-0.051,-0.034,0.455,52.5,52.5,CT,DC4,,,,
+HOSE,Dược phẩm Cửu Long,238.0,4577,4500,4577,Y tế,Health Care,1998,930.0,2216.0,0.012,http://dcl.com.vn,2.3,-0.029,-0.053,-0.237,73.0,73.0,CT,DCL,,,,
+HOSE,Đạm Cà Mau,151.0,1357,1300,1357,Hóa chất,Chemicals,2011,1266.0,21094.0,0.104,https://www.pvcfc.com.vn,3.1,-0.009,0.059,0.331,529.4,529.4,CT,DCM,,,,
+HOSE,Thương Mại Và Xây Dựng Đông Dương,181.0,2357,2300,2357,Xây dựng và Vật liệu,Construction & Materials,2002,133.0,0.0,0.0,dongduongwood.com/dongduongdecor.com.vn,,,,,12.0,12.0,CT,DDB,,,,
+HOSE,Hóa chất Đức Giang,151.0,1357,1300,1357,Hóa chất,Chemicals,2004,2544.0,944.0,0.182,http://ducgiangchem.vn,3.7,0.04,0.064,0.818,379.8,379.8,CT,DGC,,,,
+HOSE,Thế Giới Số,253.0,5379,5300,5379,Bán lẻ,Retail,,705.0,1228.0,0.231,https://digiworld.com.vn,2.4,-0.047,-0.03,0.228,167.1,167.2,CT,DGW,,,,
+HOSE,Hóa An,180.0,2353,2300,2353,Xây dựng và Vật liệu,Construction & Materials,2000,116.0,2027.0,0.126,http://www.hoaan.com.vn,2.7,-0.038,-0.047,0.322,14.7,15.1,CT,DHA,,,,
+HOSE,Đông Hải Bến Tre,156.0,1737,1700,1737,Tài nguyên Cơ bản,Basic Resources,2003,673.0,1004.0,0.385,http://www.dohacobentre.com.vn,3.0,-0.004,-0.007,0.045,80.5,80.5,CT,DHC,,,,
+HOSE,Dược Hậu Giang,238.0,4577,4500,4577,Y tế,Health Care,2004,2700.0,3660.0,0.539,http://www.dhgpharma.com.vn,2.8,0.0,-0.003,0.007,130.7,130.7,CT,DHG,,,,
+HOSE,Khoáng sản Dương Hiếu,166.0,1775,1700,1775,Tài nguyên Cơ bản,Basic Resources,2003,19.0,0.0,0.001,https://dhmjsc.vn,1.7,0.041,0.014,-0.408,31.4,31.4,CT,DHM,,,,
+HOSE,DIC Corp,336.0,8633,8600,8633,Bất động sản,Real Estate,2008,2023.0,48279.0,0.055,http://www.dic.vn,2.1,-0.046,-0.024,0.631,609.9,609.9,CT,DIG,,,,
+HOSE,Đức Long Gia Lai,155.0,1733,1700,1733,Tài nguyên Cơ bản,Basic Resources,2007,5750.0,3572.0,0.013,http://www.duclonggroup.com,1.9,0.014,-0.079,-0.13,299.3,299.3,CT,DLG,,,,
+HOSE,Dược phẩm DOMESCO,238.0,4577,4500,4577,Y tế,Health Care,2004,990.0,0.0,0.567,https://www.domesco.com,2.6,0.011,-0.064,0.198,34.7,34.7,CT,DMC,,,,
+HOSE,Tập đoàn Đạt Phương,181.0,2357,2300,2357,Xây dựng và Vật liệu,Construction & Materials,2002,677.0,5613.0,0.025,http://www.datphuong.com.vn,2.8,-0.016,0.03,0.223,63.0,63.0,CT,DPG,,,,
+HOSE,Tổng Công ty Phân bón và Hóa chất Dầu khí,151.0,1357,1300,1357,Hóa chất,Chemicals,2004,1499.0,13384.0,0.09,http://www.dpm.vn,2.5,-0.003,0.008,-0.136,391.3,391.4,CT,DPM,,,,
+HOSE,Cao su Đồng Phú,150.0,1353,1300,1353,Hóa chất,Chemicals,2004,3870.0,2449.0,0.03,http://www.doruco.com.vn,2.8,0.003,0.064,0.209,86.9,86.9,CT,DPR,,,,
+HOSE,Tập đoàn Điện Quang,221.0,3726,3700,3726,Hàng cá nhân & Gia dụng,Personal & Household Goods,2005,1085.0,361.0,0.008,https://dqc.vn,2.4,0.014,0.041,-0.368,27.6,34.4,CT,DQC,,,,
+HOSE,Cao su Đà Nẵng,213.0,3357,3300,3357,Ô tô và phụ tùng,Automobiles & Parts,2005,1749.0,7256.0,0.121,https://drc.com.vn,3.0,-0.007,0.12,0.354,118.8,118.8,CT,DRC,,,,
+HOSE,DRH Holdings,336.0,8633,8600,8633,Bất động sản,Real Estate,2006,54.0,0.0,0.012,http://www.drh.vn,2.5,0.007,-0.035,-0.251,123.7,124.4,CT,DRH,,,,
+HOSE,Thủy điện - Điện lực 3,274.0,7535,7500,7535,"Điện, nước & xăng dầu khí đốt",Utilities,2003,35.0,1852.0,0.03,http://www.pc3hp.com.vn,2.8,0.019,-0.008,-0.039,9.5,9.5,CT,DRL,,,,
+HOSE,Công viên nước Đầm Sen,260.0,5755,5700,5755,Du lịch và Giải trí,Travel & Leisure,2003,165.0,339.0,0.173,http://www.damsenwaterpark.com.vn,2.9,-0.022,-0.035,-0.025,12.1,12.1,CT,DSN,,,,
+HOSE,BĐS Đệ Tam,336.0,8633,8600,8633,Bất động sản,Real Estate,2003,38.0,141.0,0.002,http://www.detamland.com,1.9,-0.026,-0.076,-0.153,18.1,18.1,CT,DTA,,,,
+HOSE,Đại Thiên Lộc,159.0,1757,1700,1757,Tài nguyên Cơ bản,Basic Resources,2001,250.0,310.0,0.0,http://daithienloc.com.vn,1.9,0.001,-0.059,-0.614,60.6,61.4,CT,DTL,,,,
+HOSE,Kỹ nghệ Đô Thành,150.0,1353,1300,1353,Hóa chất,Chemicals,1994,206.0,753.0,0.002,http://www.dothanhtech.com,2.6,-0.021,-0.039,0.582,8.2,8.2,CT,DTT,,,,
+HOSE,ĐT và PT Cảng Đình Vũ,193.0,2777,2700,2777,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2003,429.0,1836.0,0.145,http://www.dinhvuport.com.vn,3.0,-0.021,-0.025,0.481,40.0,40.0,CT,DVP,,,,
+HOSE,Địa ốc Đất Xanh,336.0,8633,8600,8633,Bất động sản,Real Estate,2007,2389.0,39626.0,0.199,https://www.datxanh.vn,2.0,-0.031,-0.063,0.522,720.7,620.8,CT,DXG,,,,
+HOSE,Dịch vụ BĐS Đất Xanh,339.0,8637,8600,8637,Bất động sản,Real Estate,2011,3340.0,3456.0,0.199,https://datxanhservices.vn,2.3,-0.009,-0.065,0.138,574.1,574.1,CT,DXS,,,,
+HOSE,Vật liệu Xây dựng Đà Nẵng,180.0,2353,2300,2353,Xây dựng và Vật liệu,Construction & Materials,2006,243.0,578.0,0.007,http://coxiva.com.vn,2.7,-0.023,-0.041,-0.213,9.9,9.9,CT,DXV,,,,
+HOSE,Quỹ ETF DCVFMVN30,302.0,8985,8700,8985,Dịch vụ tài chính,Financial Services,,0.0,0.0,0.884,https://dragoncapital.com.vn,1.6,0.001,0.013,0.03,383.6,383.6,QU,E1VFVN30,,,,
+HOSE,Eximbank,289.0,8355,8300,8355,Ngân hàng,Banks,1992,5826.0,0.0,0.028,https://eximbank.com.vn,2.2,-0.036,-0.097,-0.042,1740.9,1747.0,NH,EIB,,,,
+HOSE,ELCOM,314.0,9578,9500,9578,Công nghệ Thông tin,Technology,2003,278.0,208.0,0.029,https://www.elcom.com.vn,2.9,-0.028,0.07,1.188,82.3,82.3,CT,ELC,,,,
+HOSE,Everpia,226.0,3763,3700,3763,Hàng cá nhân & Gia dụng,Personal & Household Goods,2007,1198.0,52.0,0.605,https://everpia.vn,2.6,-0.034,-0.079,-0.039,42.0,42.0,CT,EVE,,,,
+HOSE,Tài chính Điện lực,298.0,8773,8700,8773,Dịch vụ tài chính,Financial Services,2008,455.0,58137.0,0.009,http://www.evnfc.vn,3.2,0.08,-0.009,1.133,704.2,704.2,NH,EVF,,,,
+HOSE,Tập đoàn Everland,181.0,2357,2300,2357,Xây dựng và Vật liệu,Construction & Materials,2009,52.0,1398.0,0.005,http://www.everland.vn,2.5,0.025,0.001,0.35,215.2,215.2,CT,EVG,,,,
+HOSE,Khoáng sản FECON,180.0,2353,2300,2353,Xây dựng và Vật liệu,Construction & Materials,2007,409.0,3204.0,0.03,http://feconmining.com.vn,2.8,-0.018,-0.037,-0.132,45.1,45.1,CT,FCM,,,,
+HOSE,FECON CORP,181.0,2357,2300,2357,Xây dựng và Vật liệu,Construction & Materials,2004,1244.0,23990.0,0.34,http://www.fecon.com.vn,2.3,-0.01,-0.004,0.091,157.4,157.4,CT,FCN,,,,
+HOSE,FIDECO,336.0,8633,8600,8633,Bất động sản,Real Estate,1993,26.0,0.0,0.0,http://www.fidecovn.com,2.2,0.006,-0.223,-0.548,38.6,38.6,CT,FDC,,,,
+HOSE,Địa ốc First Real,336.0,8633,8600,8633,Bất động sản,Real Estate,2014,38.0,599.0,0.041,https://fir.vn,2.0,0.06,-0.093,-0.846,64.2,64.2,CT,FIR,,,,
+HOSE,Tập đoàn F.I.T,299.0,8775,8700,8775,Dịch vụ tài chính,Financial Services,2007,1727.0,26734.0,0.0,https://fitgroup.com.vn,3.1,0.089,0.09,0.02,339.9,339.9,CT,FIT,,,,
+HOSE,Thực phẩm Sao Ta,217.0,3573,3500,3573,Thực phẩm và đồ uống,Food & Beverage,2003,5067.0,2482.0,0.308,https://www.fimexvn.com,2.5,-0.027,0.006,0.15,65.4,65.4,CT,FMC,,,,
+HOSE,FPT Corp,310.0,9537,9500,9537,Công nghệ Thông tin,Technology,2002,45903.0,48598.0,0.49,https://www.fpt.com.vn,3.2,-0.015,0.047,0.353,1270.0,1270.0,CT,FPT,,,,
+HOSE,Bán lẻ FPT,253.0,5379,5300,5379,Bán lẻ,Retail,2012,15275.0,7806.0,0.356,https://frt.vn,2.5,-0.012,0.227,0.8,136.2,136.2,CT,FRT,,,,
+HOSE,Chứng khoán FPT,300.0,8777,8700,8777,Dịch vụ tài chính,Financial Services,,453.0,2199.0,0.291,http://www.fpts.com.vn,2.8,0.033,0.093,1.737,214.6,214.6,CK,FTS,,,,
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,0115da7d8ef3d740
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,0e26fc986ca3e44d
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,0d3d0f5fb5eb2381
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,d99a1d973ffa23c3
+,,,,,,,,,,,,,,,,,,,,,400.0,887999,Bad Request,3fe963fa459e641e
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+HOSE,Đầu tư và Công nghệ HVC,181.0,2357,2300,2357,Xây dựng và Vật liệu,Construction & Materials,2010,117.0,0.0,0.003,http://www.hvcgroup.net,,-0.003,-0.041,-0.071,40.6,40.6,CT,HVH,,,,
+HOSE,Vietnam Airlines,257.0,5751,5700,5751,Du lịch và Giải trí,Travel & Leisure,2010,7421.0,23194.0,0.059,https://www.vietnamairlines.com/vn/vi/home,2.0,-0.013,-0.031,-0.13,2214.4,2214.4,CT,HVN,,,,
+HOSE,Xi măng Vicem Hải Vân,180.0,2353,2300,2353,Xây dựng và Vật liệu,Construction & Materials,1990,382.0,917.0,0.009,https://haivancement.vn,2.3,-0.01,-0.055,-0.186,41.5,38.5,CT,HVX,,,,
+HOSE,Viễn thông - Tin học Bưu điện,310.0,9537,9500,9537,Công nghệ Thông tin,Technology,2001,491.0,639.0,0.005,http://www.ctin.vn,2.4,-0.008,0.001,-0.193,32.2,32.2,CT,ICT,,,,
+HOSE,Đầu tư và PT Đa Quốc Gia,217.0,3573,3500,3573,Thực phẩm và đồ uống,Food & Beverage,2003,368.0,578.0,0.009,https://www.idiseafood.com,2.1,-0.021,-0.017,-0.22,227.6,227.6,CT,IDI,,,,
+HOSE,Becamex IJC,336.0,8633,8600,8633,Bất động sản,Real Estate,2007,801.0,15813.0,0.068,https://becamex.com.vn,2.8,-0.027,0.006,0.116,251.8,251.8,CT,IJC,,,,
+HOSE,ICD Tân Cảng Long Bình,193.0,2777,2700,2777,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2008,339.0,1606.0,0.035,http://www.icdlongbinh.com,3.2,-0.001,0.013,-0.116,24.5,24.5,CT,ILB,,,,
+HOSE,IMEXPHARM,238.0,4577,4500,4577,Y tế,Health Care,2023,1271.0,2503.0,0.496,https://www.imexpharm.com,3.3,0.017,-0.014,0.185,70.0,70.0,CT,IMP,,,,
+HOSE,Đầu tư CN Tân Tạo,336.0,8633,8600,8633,Bất động sản,Real Estate,2002,340.0,46832.0,0.005,http://www.itaexpress.com.vn,3.1,0.025,0.018,0.388,938.3,938.5,CT,ITA,,,,
+HOSE,Đầu tư kinh doanh Nhà,336.0,8633,8600,8633,Bất động sản,Real Estate,2000,581.0,0.0,0.003,http://www.intresco.com.vn,2.5,-0.029,0.022,0.209,95.9,96.4,CT,ITC,,,,
+HOSE,Công nghệ Tiên Phong,311.0,9572,9500,9572,Công nghệ Thông tin,Technology,1994,231.0,0.0,0.011,https://www.itd.com.vn/,3.1,-0.037,-0.065,-0.35,24.5,24.5,CT,ITD,,,,
+HOSE,Đầu tư và Phát triển Y tế Việt Nhật,235.0,4535,4500,4535,Y tế,Health Care,2001,151.0,3510.0,0.016,http://www.ytevietnhat.com.vn,2.8,-0.001,0.062,0.041,112.5,112.5,CT,JVC,,,,
+HOSE,TCT Đô thị Kinh Bắc,336.0,8633,8600,8633,Bất động sản,Real Estate,2002,554.0,34402.0,0.208,http://www.kinhbaccity.vn,2.9,0.002,-0.032,0.189,767.6,767.6,CT,KBC,,,,
+HOSE,Tập đoàn KIDO,218.0,3577,3500,3577,Thực phẩm và đồ uống,Food & Beverage,2002,3961.0,0.0,0.171,https://www.kdc.vn,2.4,-0.008,-0.026,-0.034,267.3,289.8,CT,KDC,,,,
+HOSE,Nhà Khang Điền,336.0,8633,8600,8633,Bất động sản,Real Estate,2007,302.0,8278.0,0.375,https://www.khangdien.com.vn,2.9,0.01,-0.007,0.134,799.3,799.3,CT,KDH,,,,
+HOSE,Tập đoàn Khải Hoàn Land,336.0,8633,8600,8633,Bất động sản,Real Estate,2009,5573.0,568.0,0.01,https://khaihoanland.vn,2.4,-0.014,-0.019,0.033,449.4,449.4,CT,KHG,,,,
+HOSE,Điện lực Khánh Hòa,274.0,7535,7500,7535,"Điện, nước & xăng dầu khí đốt",Utilities,2005,939.0,7667.0,0.014,https://pckhanhhoa.cpc.vn,2.9,-0.011,-0.024,0.141,58.9,60.4,CT,KHP,,,,
+HOSE,MIRAE,226.0,3763,3700,3763,Hàng cá nhân & Gia dụng,Personal & Household Goods,2007,236.0,0.0,0.627,http://miraejsc.com,2.5,-0.001,-0.022,0.002,56.9,56.9,CT,KMR,,,,
+HOSE,Công ty KOSY,336.0,8633,8600,8633,Bất động sản,Real Estate,2008,105.0,0.0,0.008,https://kosy.vn,1.9,-0.018,-0.016,-0.077,216.5,216.5,CT,KOS,,,,
+HOSE,Đầu tư Tài sản KOJI,180.0,2353,2300,2353,Xây dựng và Vật liệu,Construction & Materials,2009,7.0,846.0,0.005,https://kpf.com.vn,2.3,0.009,-0.073,-0.664,60.9,60.9,CT,KPF,,,,
+HOSE,Khoáng sản Bình Dương,166.0,1775,1700,1775,Tài nguyên Cơ bản,Basic Resources,1993,304.0,11193.0,0.05,http://bimico.com.vn,2.2,-0.004,0.009,0.083,114.4,76.6,CT,KSB,,,,
+HOSE,LILAMA 10,189.0,2757,2700,2757,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2006,1528.0,1498.0,0.01,http://www.lilama10.com.vn,2.9,-0.071,0.028,-0.381,9.8,9.9,CT,L10,,,,
+HOSE,Chế biến Hàng XK Long An,218.0,3577,3500,3577,Thực phẩm và đồ uống,Food & Beverage,1995,183.0,0.0,0.018,http://www.lafooco.vn,2.5,0.104,0.086,0.024,14.7,14.7,CT,LAF,,,,
+HOSE,Khoáng sản Lâm Đồng,180.0,2353,2300,2353,Xây dựng và Vật liệu,Construction & Materials,2003,790.0,885.0,0.187,http://lbm-vn.vn,3.0,-0.027,-0.126,-0.017,20.0,20.0,CT,LBM,,,,
+HOSE,LIZEN,181.0,2357,2300,2357,Xây dựng và Vật liệu,Construction & Materials,2001,391.0,31854.0,0.031,https://lizen.vn,2.9,-0.002,0.086,-0.004,189.6,191.6,CT,LCG,,,,
+HOSE,Đầu tư LDG,339.0,8637,8600,8637,Bất động sản,Real Estate,2010,130.0,309.0,0.011,https://www.ldginvestment.vn,2.6,0.007,0.007,-0.509,256.2,257.0,CT,LDG,,,,
+HOSE,BĐS Điện lực Miền Trung,336.0,8633,8600,8633,Bất động sản,Real Estate,2007,87.0,26286.0,0.0,http://lec.com.vn,2.1,-0.081,-0.039,-0.065,26.1,26.1,CT,LEC,,,,
+HOSE,Đầu tư Cầu đường CII,181.0,2357,2300,2357,Xây dựng và Vật liệu,Construction & Materials,2000,100.0,256.0,0.45,http://www.ciibr.com.vn,2.6,0.025,-0.132,-0.026,192.9,192.9,CT,LGC,,,,
+HOSE,Long Giang Land,336.0,8633,8600,8633,Bất động sản,Real Estate,2001,42.0,1394.0,0.018,http://www.longgiangland.com.vn,2.6,-0.008,-0.041,-0.05,51.5,51.5,CT,LGL,,,,
+HOSE,KCN Long Hậu,336.0,8633,8600,8633,Bất động sản,Real Estate,2006,138.0,0.0,0.201,https://longhau.com.vn,3.4,-0.002,0.102,0.517,50.0,50.0,CT,LHG,,,,
+HOSE,Bột Giặt Lix,228.0,3767,3700,3767,Hàng cá nhân & Gia dụng,Personal & Household Goods,1993,1100.0,174.0,0.048,http://www.lixco.com,3.2,-0.001,0.14,0.435,32.4,32.4,CT,LIX,,,,
+HOSE,LILAMA 18,181.0,2357,2300,2357,Xây dựng và Vật liệu,Construction & Materials,1977,2935.0,1127.0,0.005,http://www.lilama18.com.vn,,-0.021,-0.039,0.3,9.4,9.4,CT,LM8,,,,
+HOSE,LienVietPostBank,289.0,8355,8300,8355,Ngân hàng,Banks,2008,11975.0,59906.0,0.019,https://lienvietpostbank.com.vn,2.9,-0.048,-0.022,0.416,2557.6,2557.6,NH,LPB,,,,
+HOSE,Mía đường Lam Sơn,218.0,3577,3500,3577,Thực phẩm và đồ uống,Food & Beverage,2000,1296.0,8120.0,0.009,http://www.lasuco.com.vn,3.5,0.049,0.064,0.472,74.5,74.5,CT,LSS,,,,
+HOSE,MBBank,289.0,8355,8300,8355,Ngân hàng,Banks,1994,16085.0,126621.0,0.232,https://www.mbbank.com.vn,3.5,-0.029,0.047,0.384,5214.1,5214.1,NH,MBB,,,,
+HOSE,In và Bao bì Mỹ Châu,184.0,2723,2700,2723,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1998,285.0,991.0,0.002,http://www.mychau.com.vn,2.3,-0.016,-0.041,1.39,15.1,15.1,CT,MCP,,,,
+HOSE,Xây dựng Miền Đông,180.0,2353,2300,2353,Xây dựng và Vật liệu,Construction & Materials,1986,77.0,0.0,0.0,http://miendong.com.vn,,-0.054,-0.132,-0.048,10.3,10.9,CT,MDG,,,,
+HOSE,CTCP MHC,194.0,2779,2700,2779,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1998,34.0,9504.0,0.015,https://mhc.vn,2.7,0.033,-0.117,1.016,41.4,41.4,CT,MHC,,,,
+HOSE,Bảo hiểm Quân đội,292.0,8536,8500,8536,Bảo hiểm,Insurance,2012,1949.0,0.0,0.174,https://www.mic.vn,2.5,-0.023,-0.058,0.096,172.7,172.7,BH,MIG,,,,
+HOSE,MSB Bank,289.0,8355,8300,8355,Ngân hàng,Banks,1991,6400.0,29057.0,0.3,https://msb.com.vn,2.8,0.023,0.079,0.083,2000.0,2000.0,NH,MSB,,,,
+HOSE,May Sông Hồng,226.0,3763,3700,3763,Hàng cá nhân & Gia dụng,Personal & Household Goods,2013,11809.0,511.0,0.041,https://www.songhong.vn,2.7,-0.043,0.041,0.082,75.0,75.0,CT,MSH,,,,
+HOSE,Tập đoàn Masan,218.0,3577,3500,3577,Thực phẩm và đồ uống,Food & Beverage,2004,37112.0,4726.0,0.278,https://www.masangroup.com,2.1,0.029,-0.034,-0.408,1430.8,1430.8,CT,MSN,,,,
+HOSE,Thế giới di động,253.0,5379,5300,5379,Bán lẻ,Retail,2004,68374.0,20628.0,0.449,https://mwg.vn,1.9,-0.033,-0.055,-0.106,1462.4,1463.4,CT,MWG,,,,
+HOSE,Nafoods Group,216.0,3537,3500,3537,Thực phẩm và đồ uống,Food & Beverage,2010,1041.0,4963.0,0.206,http://www.nafoodsgroup.com.vn,2.9,-0.04,-0.025,0.318,50.6,50.6,CT,NAF,,,,
+HOSE,Tấm lợp và gỗ Nam Việt,180.0,2353,2300,2353,Xây dựng và Vật liệu,Construction & Materials,2001,0.0,0.0,0.012,http://www.navifico.vn,3.1,-0.001,-0.051,-0.155,8.0,8.0,CT,NAV,,,,
+HOSE,577 CORP,336.0,8633,8600,8633,Bất động sản,Real Estate,2005,176.0,8473.0,0.012,http://nbb.com.vn,2.1,0.004,-0.029,0.484,100.2,100.5,CT,NBB,,,,
+HOSE,DV Hàng hóa Nội Bài,193.0,2777,2700,2777,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2005,736.0,2237.0,0.144,http://www.noibaicargo.com.vn,2.7,-0.014,-0.015,-0.011,26.2,26.2,CT,NCT,,,,
+HOSE,PT Nhà và Đô thị Nam HN,181.0,2357,2300,2357,Xây dựng và Vật liệu,Construction & Materials,2004,37.0,0.0,0.004,http://www.namhanoi.com.vn,2.1,0.003,0.015,0.324,42.2,42.2,CT,NHA,,,,
+HOSE,Nhựa Hà Nội,150.0,1353,1300,1353,Hóa chất,Chemicals,1972,1672.0,3099.0,0.004,https://www.hanoiplastics.com.vn,2.9,0.014,-0.004,0.205,72.9,72.9,CT,NHH,,,,
+HOSE,Sản xuất và Thương mại Nam Hoa,225.0,3747,3700,3747,Hàng cá nhân & Gia dụng,Personal & Household Goods,2004,658.0,434.0,0.03,http://www.namhoatoys.vn,2.1,-0.016,-0.043,-0.225,24.0,24.0,CT,NHT,,,,
+HOSE,Thép Nam Kim,159.0,1757,1700,1757,Tài nguyên Cơ bản,Basic Resources,2002,1364.0,28821.0,0.144,https://tonnamkim.com/,2.0,-0.059,-0.085,0.421,263.3,263.3,CT,NKG,,,,
+HOSE,BĐS Nam Long,336.0,8633,8600,8633,Bất động sản,Real Estate,2005,890.0,21357.0,0.445,https://www.namlongvn.com,2.4,-0.03,-0.039,0.219,384.8,384.8,CT,NLG,,,,
+HOSE,Đá Núi Nhỏ,180.0,2353,2300,2353,Xây dựng và Vật liệu,Construction & Materials,2006,65.0,0.0,0.049,http://nuinho.vn,2.5,-0.009,-0.109,-0.189,21.9,21.9,CT,NNC,,,,
+HOSE,Tâp đoàn 911,189.0,2757,2700,2757,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2011,50.0,138.0,0.009,https://911group.com.vn,,-0.149,-0.086,0.07,24.0,24.0,CT,NO1,,,,
+HOSE,Tập đoàn Giống cây trồng Việt Nam,217.0,3573,3500,3573,Thực phẩm và đồ uống,Food & Beverage,2004,687.0,1158.0,0.07,https://www.vinaseed.com.vn,3.1,-0.002,0.021,-0.031,17.6,17.6,CT,NSC,,,,
+HOSE,Điện lực Nhơn Trạch 2,274.0,7535,7500,7535,"Điện, nước & xăng dầu khí đốt",Utilities,2007,176.0,5934.0,0.128,https://www.pvpnt2.vn,2.6,-0.005,-0.027,-0.142,287.9,287.9,CT,NT2,,,,
+HOSE,Đô thị Từ Liêm,336.0,8633,8600,8633,Bất động sản,Real Estate,2004,102.0,6552.0,0.056,https://lideco.vn,3.7,0.018,0.042,0.847,61.0,61.0,CT,NTL,,,,
+HOSE,Novaland,336.0,8633,8600,8633,Bất động sản,Real Estate,1992,1404.0,11113.0,0.038,http://www.novaland.com.vn,2.1,-0.043,0.004,0.197,1950.1,1950.1,CT,NVL,,,,
+HOSE,Ninh Vân Bay,336.0,8633,8600,8633,Bất động sản,Real Estate,2006,576.0,1147.0,0.001,https://ninhvanbay.vn,2.4,-0.027,0.037,-0.098,90.5,90.5,CT,NVT,,,,
+HOSE,Ngân hàng Phương Đông,289.0,8355,8300,8355,Ngân hàng,Banks,1996,6155.0,0.0,0.22,https://www.ocb.com.vn,2.7,-0.046,-0.005,0.202,2054.8,2054.8,NH,OCB,,,,
+HOSE,Tập đoàn Đại Dương,299.0,8775,8700,8775,Dịch vụ tài chính,Financial Services,2007,1113.0,6168.0,0.003,http://www.oceangroup.vn,2.3,0.007,-0.077,-0.29,300.0,300.0,CT,OGC,,,,
+HOSE,Dược phẩm OPC,238.0,4577,4500,4577,Y tế,Health Care,2002,957.0,981.0,0.008,https://opcpharma.com,2.6,-0.023,-0.034,-0.149,64.1,64.1,CT,OPC,,,,
+HOSE,Chứng khoán Tiên Phong,300.0,8777,8700,8777,Dịch vụ tài chính,Financial Services,2006,315.0,18317.0,0.031,https://tpbs.com.vn,3.0,-0.027,0.027,0.919,300.0,200.0,CK,ORS,,,,
+HOSE,Pin Ắc quy Miền Nam,186.0,2733,2700,2733,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2004,1276.0,1404.0,0.123,https://www.pinaco.com,2.7,-0.014,0.161,-0.13,46.5,46.5,CT,PAC,,,,
+HOSE,Tập đoàn PAN,218.0,3577,3500,3577,Thực phẩm và đồ uống,Food & Beverage,2005,9536.0,18535.0,0.146,https://thepangroup.vn,2.8,-0.036,0.071,0.269,208.9,216.3,CT,PAN,,,,
+HOSE,Tập đoàn PC1,181.0,2357,2300,2357,Xây dựng và Vật liệu,Construction & Materials,2005,1527.0,686.0,0.081,http://pc1group.vn,2.6,-0.037,0.049,0.094,311.0,311.0,CT,PC1,,,,
+HOSE,Cảng Đồng Nai,193.0,2777,2700,2777,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2006,269.0,25.0,0.003,http://www.dongnai-port.com,3.0,0.061,0.009,0.483,37.0,37.0,CT,PDN,,,,
+HOSE,BĐS Phát Đạt,336.0,8633,8600,8633,Bất động sản,Real Estate,2004,243.0,16087.0,0.073,https://www.phatdat.com.vn,2.1,-0.041,0.016,1.353,738.8,738.8,CT,PDR,,,,
+HOSE,Dịch vụ Tổng hợp Dầu khí,253.0,5379,5300,5379,Bán lẻ,Retail,1998,2962.0,6272.0,0.01,http://www.petrosetco.com.vn,1.8,-0.013,-0.086,0.046,106.7,107.3,CT,PET,,,,
+HOSE,Gas Petrolimex,275.0,7573,7500,7573,"Điện, nước & xăng dầu khí đốt",Utilities,2004,1042.0,0.0,0.02,http://www.pgas.petrolimex.com.vn,2.3,-0.021,-0.025,-0.21,60.3,60.3,CT,PGC,,,,
+HOSE,PV GAS D,275.0,7573,7500,7573,"Điện, nước & xăng dầu khí đốt",Utilities,2007,273.0,1638.0,0.471,https://www.pvgasd.com.vn,2.5,-0.019,-0.046,0.221,99.0,99.0,CT,PGD,,,,
+HOSE,Bảo hiểm PJICO,292.0,8536,8500,8536,Bảo hiểm,Insurance,1995,1502.0,0.0,0.205,https://www.pjico.com.vn,2.9,0.126,0.083,-0.178,110.9,110.9,BH,PGI,,,,
+HOSE,Tổng Công ty Phát điện 3,274.0,7535,7500,7535,"Điện, nước & xăng dầu khí đốt",Utilities,2012,2071.0,2028.0,0.0,http://www.genco3.com,2.5,-0.01,-0.052,0.157,1123.5,1123.5,CT,PGV,,,,
+HOSE,Xây dựng Phục Hưng Holdings,181.0,2357,2300,2357,Xây dựng và Vật liệu,Construction & Materials,2001,567.0,6867.0,0.001,http://www.phuchung.com.vn,2.3,0.004,-0.013,0.016,50.7,50.6,CT,PHC,,,,
+HOSE,Cao su Phước Hòa,150.0,1353,1300,1353,Hóa chất,Chemicals,2008,2077.0,2495.0,0.161,http://www.phr.vn,3.2,0.024,0.113,0.223,135.5,135.5,CT,PHR,,,,
+HOSE,XNK PETROLIMEX,250.0,5373,5300,5373,Bán lẻ,Retail,2004,183.0,2486.0,0.006,http://www.pitco.com.vn,1.8,0.02,-0.073,0.195,14.2,15.2,CT,PIT,,,,
+HOSE,Vận tải thủy PETROLIMEX,191.0,2773,2700,2773,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1999,287.0,3139.0,0.007,https://pjtaco.petrolimex.com.vn,2.5,0.038,0.03,0.151,23.0,23.0,CT,PJT,,,,
+HOSE,SX và CN Nhựa Pha Lê,150.0,1353,1300,1353,Hóa chất,Chemicals,2008,247.0,358.0,0.005,https://www.phaleminerals.com.vn,2.1,0.028,0.112,-0.054,70.0,70.0,CT,PLP,,,,
+HOSE,Petrolimex,144.0,533,500,533,Dầu khí,Oil & Gas,1995,26153.0,15165.0,0.172,https://www.petrolimex.com.vn,2.4,-0.005,-0.01,-0.236,1270.6,1293.9,CT,PLX,,,,
+HOSE,ĐT và SX Petro Miền Trung,275.0,7573,7500,7573,"Điện, nước & xăng dầu khí đốt",Utilities,2007,31.0,578.0,0.202,http://www.petrocenter.com.vn,2.1,-0.087,-0.048,-0.294,46.3,46.3,CT,PMG,,,,
+HOSE,Văn hóa Phương Nam,256.0,5557,5500,5557,Truyền thông,Media,1999,891.0,0.0,0.005,http://www.pnc.com.vn,2.2,-0.086,0.03,-0.214,10.8,11.0,CT,PNC,,,,
+HOSE,Vàng Phú Nhuận,228.0,3767,3700,3767,Hàng cá nhân & Gia dụng,Personal & Household Goods,2004,7379.0,9023.0,0.49,https://www.pnj.com.vn,2.9,-0.035,-0.023,-0.053,334.6,334.7,CT,PNJ,,,,
+HOSE,Thép Pomina,159.0,1757,1700,1757,Tài nguyên Cơ bản,Basic Resources,2008,1110.0,6008.0,0.041,http://www.pomina-steel.com,2.5,0.059,-0.027,-0.167,278.5,279.7,CT,POM,,,,
+HOSE,Điện lực Dầu khí Việt Nam,274.0,7535,7500,7535,"Điện, nước & xăng dầu khí đốt",Utilities,2007,2082.0,75305.0,0.04,https://pvpower.vn,2.4,0.01,-0.021,-0.19,2341.9,2341.9,CT,POW,,,,
+HOSE,Nhiệt điện Phả Lại,274.0,7535,7500,7535,"Điện, nước & xăng dầu khí đốt",Utilities,2006,751.0,9124.0,0.125,http://ppc.evn.vn,3.0,-0.013,-0.032,-0.005,320.6,326.2,CT,PPC,,,,
+HOSE,TMại ĐT Dầu khí Nam Sông Hậu,275.0,7573,7500,7573,"Điện, nước & xăng dầu khí đốt",Utilities,2012,319.0,5556.0,0.0,https://nshpetro.vn,1.9,0.022,-0.032,-0.046,126.2,126.2,CT,PSH,,,,
+HOSE,Công ty Cổ phần Phú Tài,155.0,1733,1700,1733,Tài nguyên Cơ bản,Basic Resources,2004,6908.0,3817.0,0.21,http://phutai.com.vn,2.5,-0.037,-0.084,0.205,66.9,66.9,CT,PTB,,,,
+HOSE,Đầu tư ICAPITAL,181.0,2357,2300,2357,Xây dựng và Vật liệu,Construction & Materials,2004,26.0,884.0,0.013,http://www.ptic.vn,2.3,-0.01,-0.034,-0.051,32.2,32.3,CT,PTC,,,,
+HOSE,Victory Capital,336.0,8633,8600,8633,Bất động sản,Real Estate,2006,24.0,2188.0,0.001,https://victorycapital.com.vn,2.5,0.059,0.039,-0.096,98.9,100.0,CT,PTL,,,,
+HOSE,Khoan Dầu khí PVDrilling,316.0,573,500,573,Dầu khí,Oil & Gas,2006,1971.0,0.0,0.232,http://www.pvdrilling.com.vn,3.3,0.004,0.033,0.186,555.9,556.3,CT,PVD,,,,
+HOSE,Vận tải Dầu khí Thái Bình Dương,194.0,2779,2700,2779,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2008,62.0,0.0,0.001,https://pacificshipping.vn,2.7,-0.021,-0.063,0.115,94.3,94.3,CT,PVP,,,,
+HOSE,Vận tải Dầu khí PVTrans,191.0,2773,2700,2773,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2006,868.0,0.0,0.13,http://www.pvtrans.com,2.9,-0.024,-0.037,0.194,323.7,323.7,CT,PVT,,,,
+HOSE,Xuất nhập khẩu Quảng Bình,151.0,1357,1300,1357,Hóa chất,Chemicals,2007,29.0,1736.0,0.0,http://www.quangbinhjsc.com.vn,,0.002,-0.061,-0.025,69.3,69.3,CT,QBS,,,,
+HOSE,Quốc Cường Gia Lai,336.0,8633,8600,8633,Bất động sản,Real Estate,2007,115.0,3011.0,0.007,http://www.quoccuonggialai.com.vn,2.1,0.023,-0.072,1.073,275.1,275.1,CT,QCG,,,,
+HOSE,Cảng Quy Nhơn,193.0,2777,2700,2777,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2009,791.0,922.0,0.0,https://www.quynhonport.vn,2.7,-0.09,0.386,,40.4,40.4,CT,QNP,,,,
+HOSE,Bóng đèn Phích nước Rạng Đông,221.0,3726,3700,3726,Hàng cá nhân & Gia dụng,Personal & Household Goods,2004,2371.0,0.0,0.021,https://rangdong.com.vn,3.5,-0.001,-0.049,0.259,23.5,23.5,CT,RAL,,,,
+HOSE,Nhựa Rạng Đông,150.0,1353,1300,1353,Hóa chất,Chemicals,2005,546.0,1196.0,0.003,https://rangdongholding.com.vn,2.6,-0.028,-0.093,0.082,49.1,49.1,CT,RDP,,,,
+HOSE,Cơ Điện Lạnh REE,189.0,2757,2700,2757,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2005,2122.0,16958.0,0.49,https://www.reecorp.com,2.9,0.002,0.026,-0.18,408.7,409.7,CT,REE,,,,
+HOSE,Sản Xuất Và Đầu Tư Hoàng Gia,180.0,2353,2300,2353,Xây dựng và Vật liệu,Construction & Materials,,640.0,0.0,,,,,,,45.0,45.0,CT,RYG,,,,
+HOSE,Thủy điện Sê San 4A,274.0,7535,7500,7535,"Điện, nước & xăng dầu khí đốt",Utilities,2007,52.0,1053.0,0.001,http://sesan4a.com.vn,3.2,0.026,0.053,0.155,42.2,42.2,CT,S4A,,,,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+,,,,,,,,,,,,,,,,,,,,,,,API rate limit exceeded,
+HOSE,Thủ Đức House,336.0,8633,8600,8633,Bất động sản,Real Estate,1990,52.0,0.0,0.013,http://www.thuduchouse.vn,2.4,-0.023,-0.081,0.263,112.7,112.7,CT,TDH,,,,
+HOSE,Nước Thủ Dầu Một,277.0,7577,7500,7577,"Điện, nước & xăng dầu khí đốt",Utilities,2013,22.0,352.0,0.047,http://www.tdmwater.vn,3.0,-0.018,-0.006,0.091,110.0,100.0,CT,TDM,,,,
+HOSE,Công ty Thuận Đức,184.0,2723,2700,2723,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2007,1309.0,434.0,0.0,https://thuanducjsc.com.vn,2.2,0.016,0.037,-0.069,83.1,75.5,CT,TDP,,,,
+HOSE,Cấp nước Thủ Đức,277.0,7577,7500,7577,"Điện, nước & xăng dầu khí đốt",Utilities,1991,445.0,0.0,0.029,http://www.capnuocthuduc.vn,3.0,-0.057,-0.132,-0.009,8.5,8.5,CT,TDW,,,,
+HOSE,TECGROUP,336.0,8633,8600,8633,Bất động sản,Real Estate,2011,124.0,506.0,0.053,https://www.tegroup.com.vn,2.6,-0.048,-0.093,0.036,120.8,72.8,CT,TEG,,,,
+HOSE,XD Tiền Giang,181.0,2357,2300,2357,Xây dựng và Vật liệu,Construction & Materials,2003,58.0,1351.0,0.006,http://ticco.com.vn,3.1,-0.004,-0.016,0.0,23.0,23.0,CT,THG,,,,
+HOSE,PT KCN Tín Nghĩa,336.0,8633,8600,8633,Bất động sản,Real Estate,2002,53.0,2116.0,0.173,https://tinnghiaip.com.vn,3.5,0.099,0.121,0.569,65.0,65.0,CT,TIP,,,,
+HOSE,TANIMEX,336.0,8633,8600,8633,Bất động sản,Real Estate,1981,112.0,356.0,0.005,http://www.tanimex.com.vn,2.4,-0.021,-0.033,-0.138,30.0,30.0,CT,TIX,,,,
+HOSE,ĐT XD và PT Đô thị Thăng Long,336.0,8633,8600,8633,Bất động sản,Real Estate,2009,224.0,5859.0,0.007,http://thanglongdeco.com/,2.5,-0.008,0.005,0.507,77.7,77.7,CT,TLD,,,,
+HOSE,Tập đoàn Thiên Long,220.0,3724,3700,3724,Hàng cá nhân & Gia dụng,Personal & Household Goods,2005,3084.0,2420.0,0.23,http://www.thienlonggroup.com,2.7,-0.013,-0.052,-0.209,78.6,78.6,CT,TLG,,,,
+HOSE,Thép Tiến Lên,159.0,1757,1700,1757,Tài nguyên Cơ bản,Basic Resources,1988,233.0,7761.0,0.016,http://www.tienlensteel.com.vn,2.0,-0.037,-0.047,0.105,112.3,112.3,CT,TLH,,,,
+HOSE,Thủy điện Thác Mơ,274.0,7535,7500,7535,"Điện, nước & xăng dầu khí đốt",Utilities,1994,159.0,927.0,0.008,https://tmhpp.com.vn,3.5,-0.048,0.017,0.501,70.0,70.0,CT,TMP,,,,
+HOSE,Transimex,193.0,2777,2700,2777,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1983,1185.0,1080.0,0.429,http://transimex.com.vn,3.1,0.054,0.036,0.093,158.3,158.3,CT,TMS,,,,
+HOSE,Ô tô TMT,211.0,3353,3300,3353,Ô tô và phụ tùng,Automobiles & Parts,2006,649.0,1204.0,0.026,https://tmt-vietnam.com,1.9,-0.007,-0.032,-0.097,36.9,37.3,CT,TMT,,,,
+HOSE,TNS Holdings,336.0,8633,8600,8633,Bất động sản,Real Estate,2014,2289.0,660.0,0.002,https://tnsholdings.vn,2.5,0.026,-0.091,-0.123,49.7,49.7,CT,TN1,,,,
+HOSE,XNK Thiên Nam,159.0,1757,1700,1757,Tài nguyên Cơ bản,Basic Resources,1994,138.0,2298.0,0.026,https://thiennamgroup.vn,2.3,0.114,0.034,-0.115,49.2,49.6,CT,TNA,,,,
+HOSE,Cao su Thống Nhất,150.0,1353,1300,1353,Hóa chất,Chemicals,1991,271.0,0.0,0.006,http://trc.com.vn,2.6,0.048,0.013,-0.12,19.3,19.3,CT,TNC,,,,
+HOSE,Bệnh viện Quốc tế Thái Nguyên,234.0,4533,4500,4533,Y tế,Health Care,2012,627.0,3731.0,0.418,https://tnh.com.vn,2.5,-0.026,-0.062,-0.312,110.2,110.2,CT,TNH,,,,
+HOSE,Tập đoàn Thành Nam,159.0,1757,1700,1757,Tài nguyên Cơ bản,Basic Resources,2009,23.0,1329.0,0.002,https://thanhnamgroup.com.vn,,0.042,0.039,-0.171,52.5,52.5,CT,TNI,,,,
+HOSE,Tập đoàn TNT,166.0,1775,1700,1775,Tài nguyên Cơ bản,Basic Resources,2006,15.0,1660.0,0.011,https://tnt-group.vn,2.3,0.172,0.197,0.231,51.0,51.0,CT,TNT,,,,
+HOSE,TPBank,289.0,8355,8300,8355,Ngân hàng,Banks,2008,8588.0,20231.0,0.293,https://tpb.vn,3.4,0.017,0.012,0.084,2201.6,2201.6,NH,TPB,,,,
+HOSE,Nhựa Tân Đại Hưng,150.0,1353,1300,1353,Hóa chất,Chemicals,1984,707.0,670.0,0.018,http://tandaihungplastic.com,2.9,0.024,0.015,-0.31,22.5,24.4,CT,TPC,,,,
+HOSE,Traphaco,238.0,4577,4500,4577,Y tế,Health Care,1999,1476.0,0.0,0.466,https://traphaco.com.vn,2.7,-0.008,-0.074,-0.223,41.5,41.5,CT,TRA,,,,
+HOSE,Cao su Tây Ninh,150.0,1353,1300,1353,Hóa chất,Chemicals,2006,1304.0,735.0,0.008,http://taniruco.com,3.2,0.081,0.151,0.181,29.1,30.0,CT,TRC,,,,
+HOSE,Kỹ thuật NN Cần Thơ,151.0,1357,1300,1357,Hóa chất,Chemicals,1976,1063.0,3181.0,0.002,http://www.tsccantho.com.vn,2.6,0.06,0.015,-0.124,196.9,196.9,CT,TSC,,,,
+HOSE,XD và PT Trường Thành,274.0,7535,7500,7535,"Điện, nước & xăng dầu khí đốt",Utilities,2008,132.0,6242.0,0.047,https://truongthanhgroup.com.vn,2.8,-0.028,-0.012,-0.289,170.1,170.1,CT,TTA,,,,
+HOSE,ĐT Năng lượng Trường Thịnh,274.0,7535,7500,7535,"Điện, nước & xăng dầu khí đốt",Utilities,2014,74.0,246.0,0.0,https://dientruongthinh.vn,,-0.136,-0.216,-0.261,28.5,28.5,CT,TTE,,,,
+HOSE,Gỗ Trường Thành,155.0,1733,1700,1733,Tài nguyên Cơ bản,Basic Resources,2003,2976.0,21806.0,0.06,https://www.truongthanh.com,2.5,0.022,0.016,-0.119,393.5,393.5,CT,TTF,,,,
+HOSE,Tư vấn XD Điện 2,195.0,2791,2700,2791,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1985,1081.0,986.0,0.125,https://www.pecc2.com,2.8,-0.049,0.049,0.717,67.5,67.5,CT,TV2,,,,
+HOSE,Chứng khoán Trí Việt,300.0,8777,8700,8777,Dịch vụ tài chính,Financial Services,2006,60.0,10325.0,0.017,http://www.tvsc.vn,3.2,-0.06,0.172,0.706,112.1,112.1,CK,TVB,,,,
+HOSE,Chứng khoán Thiên Việt,300.0,8777,8700,8777,Dịch vụ tài chính,Financial Services,2006,98.0,2553.0,0.288,https://www.tvs.vn,2.4,-0.016,-0.025,0.139,151.3,151.3,CK,TVS,,,,
+HOSE,May Việt Thắng,226.0,3763,3700,3763,Hàng cá nhân & Gia dụng,Personal & Household Goods,2007,1571.0,738.0,0.003,https://vietthang.com.vn,2.5,-0.015,-0.036,-0.354,21.0,21.0,CT,TVT,,,,
+HOSE,Dây và Cáp điện Taya,186.0,2733,2700,2733,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1992,346.0,0.0,0.399,http://www.taya.com.vn,2.3,0.004,-0.034,-0.274,30.7,6.1,CT,TYA,,,,
+HOSE,Phát triển Nhà và Đô thị IDICO,181.0,2357,2300,2357,Xây dựng và Vật liệu,Construction & Materials,2000,100.0,572.0,0.123,http://www.udico.com.vn,2.7,-0.018,0.047,-0.137,8.0,8.0,CT,UIC,,,,
+HOSE,Phân lân Văn Điển,151.0,1357,1300,1357,Hóa chất,Chemicals,2009,374.0,0.0,0.0,https://vandienfmp.vn,2.8,-0.005,0.008,0.168,37.7,37.7,CT,VAF,,,,
+HOSE,Thép VICASA - VNSTEEL,159.0,1757,1700,1757,Tài nguyên Cơ bản,Basic Resources,2007,386.0,732.0,0.006,http://www.vicasasteel.com,2.6,-0.053,-0.01,-0.26,15.2,15.2,CT,VCA,,,,
+HOSE,Vietcombank,289.0,8355,8300,8355,Ngân hàng,Banks,2008,22862.0,25183.0,0.235,https://vietcombank.com.vn,2.8,-0.025,-0.072,-0.012,5589.1,5589.1,NH,VCB,,,,
+HOSE,VinaCafé Biên Hòa,216.0,3537,3500,3537,Thực phẩm và đồ uống,Food & Beverage,1998,241.0,390.0,0.006,www.vinacafebienhoa.com,2.9,0.008,-0.009,-0.405,26.6,26.6,CT,VCF,,,,
+HOSE,VINACONEX,181.0,2357,2300,2357,Xây dựng và Vật liệu,Construction & Materials,2006,8433.0,7864.0,0.134,http://www.vinaconex.com.vn,1.9,-0.044,-0.037,0.135,534.5,534.5,CT,VCG,,,,
+HOSE,Chứng khoán Vietcap,300.0,8777,8700,8777,Dịch vụ tài chính,Financial Services,2007,343.0,13657.0,0.228,http://www.vcsc.com.vn,2.4,-0.041,0.01,0.448,437.5,437.5,CK,VCI,,,,
+HOSE,Dược phẩm VIDIPHA,238.0,4577,4500,4577,Y tế,Health Care,2003,497.0,506.0,0.003,http://www.vidipha.com.vn,2.8,-0.021,-0.013,-0.01,18.4,18.4,CT,VDP,,,,
+HOSE,Chứng khoán Rồng Việt,300.0,8777,8700,8777,Dịch vụ tài chính,Financial Services,2006,463.0,5331.0,0.025,http://www.vdsc.com.vn,3.1,-0.004,0.043,1.275,210.0,210.0,CK,VDS,,,,
+HOSE,Khử trùng Việt Nam,151.0,1357,1300,1357,Hóa chất,Chemicals,2001,1390.0,729.0,0.014,https://www.vfc.com.vn,3.3,0.134,0.51,0.709,41.7,41.7,CT,VFG,,,,
+HOSE,Tổng Công ty Viglacera,180.0,2353,2300,2353,Xây dựng và Vật liệu,Construction & Materials,2010,7200.0,5652.0,0.052,http://www.viglacera.com.vn,3.0,0.043,0.035,0.431,448.4,448.4,CT,VGC,,,,
+HOSE,Thủy sản Vĩnh Hoàn,217.0,3573,3500,3573,Thực phẩm và đồ uống,Food & Beverage,2007,3875.0,6307.0,0.322,https://www.vinhhoan.com,2.6,-0.015,-0.005,0.097,224.5,224.5,CT,VHC,,,,
+HOSE,Vinhomes,336.0,8633,8600,8633,Bất động sản,Real Estate,2008,11664.0,31513.0,0.224,https://vinhomes.vn/vi,3.2,0.047,0.002,-0.143,4354.4,4354.4,CT,VHM,,,,
+HOSE,VIBBank,289.0,8355,8300,8355,Ngân hàng,Banks,1996,10222.0,1316.0,0.205,https://www.vib.com.vn,3.3,-0.003,0.028,0.17,2536.8,2536.8,NH,VIB,,,,
+HOSE,VinGroup,336.0,8633,8600,8633,Bất động sản,Real Estate,2002,313.0,32650.0,0.122,http://www.vingroup.net,2.5,0.098,0.061,-0.257,3823.7,3823.7,CT,VIC,,,,
+HOSE,Viễn Đông,156.0,1737,1700,1737,Tài nguyên Cơ bản,Basic Resources,1974,29.0,3501.0,0.011,http://www.dautuviendong.vn,2.3,-0.019,-0.066,-0.139,40.8,40.8,CT,VID,,,,
+HOSE,Vận tải Xăng dầu VIPCO,191.0,2773,2700,2773,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2005,463.0,6603.0,0.072,http://www.vipco.com.vn,2.6,-0.025,-0.073,0.003,68.5,68.5,CT,VIP,,,,
+HOSE,Chứng khoán VIX,300.0,8777,8700,8777,Dịch vụ tài chính,Financial Services,2007,53.0,1703.0,0.082,https://www.vixs.vn,2.9,-0.009,0.002,1.652,669.4,669.4,CK,VIX,,,,
+HOSE,Vietjet Air,257.0,5751,5700,5751,Du lịch và Giải trí,Travel & Leisure,2007,6038.0,5333.0,0.174,http://www.vietjetair.com,1.6,-0.029,-0.052,-0.123,541.6,541.6,CT,VJC,,,,
+HOSE,Y Dược phẩm Vimedimex,238.0,4577,4500,4577,Y tế,Health Care,2006,449.0,364.0,0.017,https://vietpharm.com.vn,2.8,-0.051,0.0,-0.118,15.4,15.4,CT,VMD,,,,
+HOSE,Chứng khoán VNDIRECT,300.0,8777,8700,8777,Dịch vụ tài chính,Financial Services,2006,1535.0,27772.0,0.217,http://www.vndirect.com.vn,2.6,-0.042,-0.002,0.351,1217.8,1217.8,CK,VND,,,,
+HOSE,Xây dựng điện Việt Nam,181.0,2357,2300,2357,Xây dựng và Vật liệu,Construction & Materials,1988,150.0,0.0,0.013,https://vneco.vn,1.8,0.002,-0.039,-0.472,82.1,90.4,CT,VNE,,,,
+HOSE,DL Thành Thành Công,259.0,5753,5700,5753,Du lịch và Giải trí,Travel & Leisure,2006,947.0,2407.0,0.005,https://ttchospitality.vn,1.9,-0.012,-0.061,-0.145,97.3,97.3,CT,VNG,,,,
+HOSE,Logistics Vinalink,194.0,2779,2700,2779,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,1999,315.0,1317.0,0.11,http://www.vinalinklogistics.com,,-0.007,-0.025,0.046,14.1,14.1,CT,VNL,,,,
+HOSE,VINAMILK,218.0,3577,3500,3577,Thực phẩm và đồ uống,Food & Beverage,2003,9663.0,0.0,0.529,https://www.vinamilk.com.vn,2.7,0.039,0.014,-0.169,2090.0,2090.0,CT,VNM,,,,
+HOSE,Ánh Dương Việt Nam,262.0,5759,5700,5759,Du lịch và Giải trí,Travel & Leisure,1995,2032.0,1021.0,0.202,https://www.vinasuntaxi.com,2.8,-0.021,-0.079,-0.19,67.9,67.9,CT,VNS,,,,
+HOSE,Vận tải Biển Việt Nam,191.0,2773,2700,2773,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2008,923.0,0.0,0.013,http://www.vosco.com.vn,3.1,-0.012,0.0,0.069,140.0,140.0,CT,VOS,,,,
+HOSE,VPBank,289.0,8355,8300,8355,Ngân hàng,Banks,1993,28155.0,18747.0,0.283,https://www.vpbank.com.vn,2.3,-0.026,-0.039,0.027,7933.9,7933.9,NH,VPB,,,,
+HOSE,Phát triển Điện lực Việt Nam,274.0,7535,7500,7535,"Điện, nước & xăng dầu khí đốt",Utilities,2015,121.0,6504.0,0.258,http://vnpd.com.vn,2.9,0.006,-0.025,-0.057,106.6,106.6,CT,VPD,,,,
+HOSE,Đầu tư TMại XNK Việt Phát,166.0,1775,1700,1775,Tài nguyên Cơ bản,Basic Resources,2008,125.0,3927.0,0.002,http://www.vietphatjsc.com.vn,2.5,-0.029,-0.066,0.303,84.2,84.2,CT,VPG,,,,
+HOSE,Vạn Phát Hưng,336.0,8633,8600,8633,Bất động sản,Real Estate,1999,67.0,7365.0,0.007,http://www.vanphathung.com,2.7,0.036,-0.014,0.868,95.4,95.4,CT,VPH,,,,
+HOSE,Đầu tư Văn Phú - Invest,336.0,8633,8600,8633,Bất động sản,Real Estate,2008,291.0,348.0,0.022,https://vanphu.vn,2.7,0.014,0.026,0.017,242.0,242.0,CT,VPI,,,,
+HOSE,Thuốc sát trùng Việt Nam,151.0,1357,1300,1357,Hóa chất,Chemicals,1998,368.0,780.0,0.005,https://vipesco.com.vn,3.1,0.001,-0.082,0.033,24.5,24.5,CT,VPS,,,,
+HOSE,Bất động sản và Đầu tư VRC,336.0,8633,8600,8633,Bất động sản,Real Estate,2005,15.0,2032.0,0.007,https://vrc.com.vn,2.0,-0.031,-0.056,-0.328,50.0,50.0,CT,VRC,,,,
+HOSE,Vincom Retail,336.0,8633,8600,8633,Bất động sản,Real Estate,2012,2120.0,34058.0,0.297,https://vincom.com.vn,3.5,0.179,0.068,-0.242,2272.3,2328.8,CT,VRE,,,,
+HOSE,VICONSHIP,193.0,2777,2700,2777,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2007,1213.0,0.0,0.036,https://viconship.com,2.8,0.009,0.075,0.017,266.8,133.4,CT,VSC,,,,
+HOSE,Thủy điện Vĩnh Sơn - Sông Hinh,274.0,7535,7500,7535,"Điện, nước & xăng dầu khí đốt",Utilities,2004,227.0,2883.0,0.12,http://www.vshpc.evn.com.vn,3.8,0.01,0.037,0.343,236.2,236.2,CT,VSH,,,,
+HOSE,Đầu tư và Xây dựng Cấp thoát nước,181.0,2357,2300,2357,Xây dựng và Vật liệu,Construction & Materials,1975,166.0,394.0,0.009,http://www.waseco.com.vn,2.9,-0.068,-0.01,0.053,13.2,13.2,CT,VSI,,,,
+HOSE,Viettronics Tân Bình,186.0,2733,2700,2733,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2004,105.0,0.0,0.019,http://www.vtb.com.vn,,-0.021,-0.11,-0.276,10.8,12.0,CT,VTB,,,,
+HOSE,VITACO,191.0,2773,2700,2773,Hàng & Dịch vụ Công nghiệp,Industrial Goods & Services,2005,548.0,5038.0,0.044,https://vitaco.petrolimex.com.vn,3.3,-0.025,0.055,0.214,79.9,79.9,CT,VTO,,,,
+HOSE,Khoáng sản CN Yên Bái,166.0,1775,1700,1775,Tài nguyên Cơ bản,Basic Resources,2015,138.0,0.0,0.003,https://ybm.com.vn,,-0.004,0.025,0.428,14.3,14.3,CT,YBM,,,,
+HOSE,Tập đoàn Yeah1,254.0,5553,5500,5553,Truyền thông,Media,2006,58.0,310.0,0.024,https://yeah1group.com,2.6,0.031,-0.002,0.703,131.4,131.4,CT,YEG,,,,
