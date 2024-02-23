@@ -8,7 +8,7 @@
 
 1. Clone repository về máy tính của bạn:
    ```bash
-   git clone https://github.com/hungmanhhoang/stock_analysis.git
+   git clone https://github.com/hungmanhhoang/Vietnam-Stock-Market-Insights.git
 2. Cài đặt các dependencies bằng cách sử dụng pip:
    ```bash
     pip install -r requirements.txt
@@ -17,11 +17,11 @@
 
 2. Chạy ứng dụng bằng lệnh:
     ```bash
-    python app.py
+    streamlit app.py
 ## Chức năng chính: 
 1. **Hiển thị biểu đồ giá cổ phiếu:** Xem biểu đồ dòng giá cổ phiếu theo thời gian để theo dõi xu hướng. 
-2. **Phân tích chỉ số tài chính:** Nhập mã cổ phiếu và nhận thông tin về các chỉ số tài chính quan trọng.
-3. **Dự đoán xu hướng**: Sử dụng mô hình để dự đoán tương lai của cổ phiếu.
+2. **Phân tích chỉ số tài chính:** Nhập mã cổ phiếu và nhận thông tin về các chỉ số tài chính quan trọng và các thông tin cơ bản về công ty đó.
+3. **Dự đoán xu hướng**: Sử dụng mô hình để dự đoán tương lai của cổ phiếu. (chưa phát hành)
 
 ## Yêu cầu hệ thống
 * Python 3.x
