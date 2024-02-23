@@ -21,7 +21,7 @@ def render():
             df = df.sort_values('stockRating', ascending=True)
         elif stock_rating == 'Giảm dần':
             df = df.sort_values('stockRating', ascending=False)
-        df = df.reset_index(drop=True)
         
+    df = df.reset_index(drop=True)
     st.write(df)
  
